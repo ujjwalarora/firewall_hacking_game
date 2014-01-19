@@ -1,0 +1,6 @@
+admin-mail : firewall@csidtu.com
+
+db : csidtuin_firewall12
+table : users
+username : firew12
+password : wall12fire

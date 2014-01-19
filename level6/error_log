@@ -1,0 +1,1 @@
+[16-Feb-2012 13:42:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/csidtuin/public_html/firewall12/level6/index.php:65) in /home/csidtuin/public_html/firewall12/level6/index.php on line 70

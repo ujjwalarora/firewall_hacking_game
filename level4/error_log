@@ -1,0 +1,1 @@
+[16-Feb-2012 14:02:18] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level4/index.php on line 7

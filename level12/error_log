@@ -1,0 +1,1 @@
+[23-Feb-2012 13:08:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 809

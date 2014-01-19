@@ -1,0 +1,47 @@
+[16-Feb-2012 11:46:43] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/process.php on line 2
+[16-Feb-2012 11:46:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/process.php on line 2
+[16-Feb-2012 11:46:50] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/process.php on line 2
+[16-Feb-2012 11:46:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/process.php on line 2
+[16-Feb-2012 11:47:06] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:47:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:47:18] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:47:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:47:29] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:47:29] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:48:07] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:48:07] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:48:39] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:48:39] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:48:59] PHP Warning:  require_once(../include/membersite_config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Permission denied in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 11:48:59] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../include/membersite_config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/csidtuin/public_html/firewall12/level1/index.php on line 3
+[16-Feb-2012 13:51:15] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 13:51:25] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 13:51:47] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 13:51:58] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 13:52:01] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 13:52:44] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 13:54:48] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 14:00:01] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 14:00:31] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 14:00:35] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 14:07:03] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 14:07:04] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 14:31:58] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 14:37:39] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 14:37:47] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 14:37:57] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 14:46:33] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 14:46:36] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 14:46:40] PHP Fatal error:  Call to undefined method FGMembersite::RedirectToURL() in /home/csidtuin/public_html/firewall12/level1/index.php on line 7
+[16-Feb-2012 15:28:43] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[16-Feb-2012 15:36:59] PHP Fatal error:  Call to undefined method FGMembersite::StoreAns() in /home/csidtuin/public_html/firewall12/level1/process.php on line 5
+[17-Feb-2012 00:54:33] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 00:56:34] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 00:58:27] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 00:59:53] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 00:59:56] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 01:00:09] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 01:01:48] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 01:04:53] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 01:08:24] PHP Fatal error:  Call to undefined function UserUsername() in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 425
+[17-Feb-2012 01:25:01] PHP Parse error:  syntax error, unexpected $end in /home/csidtuin/public_html/firewall12/include/fg_membersite.php on line 356
